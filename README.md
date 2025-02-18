@@ -31,8 +31,8 @@ sudo apt install gdb
 
 ### 5. Choose one, pwndbg or gef (GDB plugins)
 
-[pwndbg](https://github.com/pwndbg/pwndbg)
-[gef](https://github.com/hugsy/gef)
+- [pwndbg](https://github.com/pwndbg/pwndbg)
+- [gef](https://github.com/hugsy/gef)
 
 ### 6. Checksec
 
