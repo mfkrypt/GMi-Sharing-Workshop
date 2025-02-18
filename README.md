@@ -2,8 +2,8 @@
 
 ## C2 Workshop requirements
 
-### 1. Kali Linux VM
-### 2. Setup a Windows 10 VM with at least 25GB of storage (Refer youtube for tutorial)
+1. Kali Linux VM
+2. Setup a Windows 10 VM with at least 25GB of storage (Refer youtube for tutorial)
 
 
 ## Binary Exploitation Workshop requirements
