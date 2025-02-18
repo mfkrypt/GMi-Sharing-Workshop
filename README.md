@@ -29,7 +29,7 @@ sudo -H python3 -m pip install ROPgadget
 sudo apt install gdb
 ```
 
-### 5. Choose either one, pwndbg or gef
+### 5. Choose one, pwndbg or gef (GDB plugins)
 
 [pwndbg](https://github.com/pwndbg/pwndbg)
 [gef](https://github.com/hugsy/gef)
