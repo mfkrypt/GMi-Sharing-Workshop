@@ -45,3 +45,9 @@ sudo apt install checksec
 ```sh
 sudo apt install ghidra
 ```
+
+### 8. Any text editor
+
+- Sublime Text
+- Vim
+- Emacs
